@@ -3,11 +3,11 @@ ADAPTLEARN - Personalized Learning AI Agent
 
 A web-based platform that evaluates students’ quiz performance, identifies weak topics, and provides personalized study recommendations with multilingual support.
 
-Project Overview
+Overview:
 
 This project is designed to help students improve their academic performance by turning quizzes into actionable learning insights. It evaluates quiz answers, identifies weak subtopics, suggests study materials, and tracks progress over time. The system supports Physics, Chemistry, and Biology, and provides a multilingual interface in English, Hindi, and Tamil for wider accessibility.
 
-Key Features
+Key Features:
 
 Secure Authentication: Signup and login with credential storage
 
@@ -23,11 +23,11 @@ Progress Tracking: Compares current and past quiz performances to measure improv
 
 Multilingual Support: Interface available in English, Hindi, and Tamil
 
-Technology Stack
+Technology Stack:
 
 Frontend and Backend: ViteReact and Typescript
 
-Innovation & Impact
+Innovation & Impact:
 
 Provides subtopic-level insights, enabling focused learning
 
@@ -37,7 +37,7 @@ Supports regional languages, making learning more inclusive
 
 Helps students plan personalized study schedules based on their weaknesses
 
-Future Enhancements
+Future Enhancements:
 
 AI-based adaptive quizzes with personalized difficulty
 
@@ -50,5 +50,6 @@ This is a code bundle for Student Performance Evaluation Page. The original proj
 ## Running the code
 
 Run `npm i` to install the dependencies.
+
 Run `npm run dev` to start the development server.
   
