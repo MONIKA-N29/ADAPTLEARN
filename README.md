@@ -1,5 +1,5 @@
 
-AdaptLearn - Personalized Learning AI Agent
+ADAPTLEARN - Personalized Learning AI Agent
 
 A web-based platform that evaluates students’ quiz performance, identifies weak topics, and provides personalized study recommendations with multilingual support.
 
